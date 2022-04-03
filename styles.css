@@ -1,0 +1,35 @@
+/** NAV BAR **/
+
+.nav-link {
+  color: red;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+/* BODY */
+
+body {
+  background-image: url(inside.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: fixed;
+}
+
+/* HEADING */
+
+.text-right {
+  margin: 10px;
+}
+
+.jumbotron {
+  background-color: rgba(31, 29, 29, 0.6);
+  color: white;
+}
+
+/* MENU */
+
+.table {
+  color: white;
+}
